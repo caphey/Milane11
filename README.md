@@ -8,6 +8,4 @@ Je suis un professionnel de la Data, basé en France, et passionné par la const
 
 💡 Mon objectif est de devenir Data Analyst/Engineer
 
-Ma Stack d'Apprentissage :
-
 SQL  •  Python  •  dbt  •  Docker  •  Tableau / Power BI
